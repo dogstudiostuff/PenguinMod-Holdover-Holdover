@@ -1,2 +1,2 @@
 # PenguinMod-Holdover
-send people to the site while its kinda down
+https://studio.penguinmod.com/editor.html
